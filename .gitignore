@@ -1,3 +1,4 @@
 /cred.json
-/covers
+/covers*
 /.cache
+/.vscode
